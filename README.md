@@ -1,2 +1,2 @@
 # Shomski_OS
-A mini os project
+A mini os project.
