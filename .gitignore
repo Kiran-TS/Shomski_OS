@@ -1,0 +1,12 @@
+# build outputs
+*.o
+*.bin
+*.img
+*.iso
+
+# temp files
+*.log
+*.tmp
+
+# build directory
+build/
