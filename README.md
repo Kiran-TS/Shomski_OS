@@ -1,6 +1,7 @@
 # Shomski OS
 
 A small educational operating system built from scratch.
+still unfinished*
 
 ## Tools
 - Language: C, Assembly
